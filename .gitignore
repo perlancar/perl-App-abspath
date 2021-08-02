@@ -2,3 +2,4 @@ App-abspath-*
 .build
 *~
 nytprof*
+.DS_Store
